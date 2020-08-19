@@ -33,4 +33,3 @@ Front End
 
 () Animar alteração dos números com react-countup 
    https://github.com/glennreyes/react-countup
-
