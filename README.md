@@ -1,35 +1,35 @@
-Aula 10 - roteiro - ✔ 
+Roteiro 
 =====================
 
-(✔) Analisar e entender código-fonte do backend
+(x) Analisar e entender código-fonte do backend
 
 Front End 
 ---------
 
-(✔) Criar estado em App para candidates[]
-(✔) Definir setInterval de 1 segundo e ler 
+(x) Criar estado em App para candidates[]
+(x)) Definir setInterval de 1 segundo e ler 
    backend em componentDidMount
-(✔) Conferir se os dados estão sendo buscados
+(x) Conferir se os dados estão sendo buscados
    corretamente
 
 () Componentizar app
-   (✔) Spinner
-   (✔) Header
-   (✔) Candidates 
-   (✔) Card 
-   (✔) Candidate 
-   (✔) Position
-   (✔) Picture
-   (✔) Info
-   (✔) Name
-   (✔) Votes
-   (✔) Percentage
-   (✔) Popularity
+   (x) Spinner
+   (x) Header
+   (x) Candidates 
+   (x) Card 
+   (x) Candidate 
+   (x) Position
+   (x) Picture
+   (x) Info
+   (x) Name
+   (x) Votes
+   (x) Percentage
+   (x) Popularity
 
-(✔) Estilizar o app
+(x) Estilizar o app
 
-(✔) Animar transição dos cards com react-flip-move:
+(x) Animar transição dos cards com react-flip-move:
    https://github.com/joshwcomeau/react-flip-move
 
-() Animar alteração dos números com react-countup 
+(x) Animar alteração dos números com react-countup 
    https://github.com/glennreyes/react-countup
